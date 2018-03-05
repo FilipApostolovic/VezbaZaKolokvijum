@@ -1,0 +1,2 @@
+C:\Users\Filip\source\repos\VezbaZaKolokvijum\VezbaZaKolokvijum\obj\Debug\VezbaZaKolokvijum.njsproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\VezbaZaKolokvijum\VezbaZaKolokvijum\bin\Microsoft.NodejsTools.WebRole.dll
